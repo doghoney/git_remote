@@ -1,4 +1,6 @@
 # __readme 개요__
+### readme author : shin jun ho
+
 
 ## __시나리오__
 - 프로젝트를 git으로 관리하기 시작

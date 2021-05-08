@@ -1,4 +1,5 @@
 # __MARKDOWN grammer__
+### author : shin jun ho
 
 ## __heading__
 >1\. add number signs (#) in front of a word or phrase.  

@@ -1,5 +1,5 @@
 # __readme 개요__
-### readme author : shin jun ho
+### readme author : 
 
 
 ## __시나리오__
